@@ -9,4 +9,4 @@ Program ini dibuat untuk menyelesaikan tugas Pertemuan 5 [Rata-Rata dan Table Ma
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
-[![Open In Colab]](https://colab.research.google.com/github/dianazasciawindari-collab/Talgo5/blob/main/Selamat_Datang_di_Colab.ipynb)
+[![Pertemuan 5]](https://colab.research.google.com/github/dianazasciawindari-collab/Talgo5/blob/main/Selamat_Datang_di_Colab.ipynb)
