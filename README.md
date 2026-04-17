@@ -4,9 +4,9 @@
 **Matkul:** Algoritma dan Pemrograman  
 
 ## Deskripsi
-Program ini dibuat untuk menyelesaikan tugas Pertemuan 5 [Rata-Rata dan Table Matriks].
+Program ini dibuat untuk menyelesaikan tugas Pertemuan 7 [Pangkat dan Fibon].
 
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
-[![Pertemuan 5]](https://colab.research.google.com/github/dianazasciawindari-collab/Talgo5/blob/main/Selamat_Datang_di_Colab.ipynb)
+[![Pertemuan 7]](https://colab.research.google.com/github/dianazasciawindari-collab/Talgo5/blob/main/fibo%26pangkat.ipynb)
